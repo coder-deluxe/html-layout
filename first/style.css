@@ -1,9 +1,8 @@
 html, body {
-
     height: 100%;
     width: 100%;
-    
-
+    background-color: #D1D1D1;
+    margin: 0;
 }
 
 
@@ -11,23 +10,18 @@ header {
     background-color: #4D5052;
     height: 15%;
     width: 100%;
-
 }
 
 footer {
     background-color: #4D5052;
     height: 10.4%;
-    width: 70.2%;
-
-
-
+    width: 72.5%;
+    margin: auto;
 }
 
-.left {
+.center-column {
     background-color: #F0EFF0;
-    width: 14.8%;
+    width: 72.5%;
     height: 106%;
-    margin: 50% auto;
-
-
+    margin: auto;
 }
