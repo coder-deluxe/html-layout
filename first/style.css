@@ -1,0 +1,46 @@
+html, body {
+
+    height: 100%;
+    width: 100%;
+    margin: 0;
+
+}
+
+
+header {
+    background-color: #4D5052;
+    height: 15%;
+    width: 100%;
+
+}
+
+footer {
+    background-color: #4D5052;
+    height: 10.4%;
+    width: 70.2%;
+    margin-top: 75.1%;
+    margin-left: 14.9%;
+    margin: 55% auto;
+
+
+}
+
+.left {
+    background-color: #F0EFF0;
+    width: 14.8%;
+    height: 81.2%;
+    float: left;
+    margin: 50% auto;
+    margin-top: 0%;
+
+}
+
+.right {
+    background-color: #F0EFF0;
+    float: right;
+    width: 14.8%;
+    height: 81.2%;
+    margin: 50% auto;
+    margin-top: 0%;
+
+}
