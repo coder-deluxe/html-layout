@@ -1,0 +1,47 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
+
+.left {
+    height: 100%;
+    width: 33.3%;
+    background-color: #4A90E2;
+    float: left;
+
+}
+
+.center {
+    height: 100%;
+    width: 33.3%;
+    background-color: #50E3C2;
+    margin: auto;
+
+}
+
+.right {
+    height: 76%;
+    width: 33.3%;
+    background-color: #B8E986;
+    float: right;
+    margin-top: -65.8%;
+
+
+}
+
+.image-placeholder {
+    height: 31.5%;
+    width: 100%;
+    background-color: red;
+    margin-top: 150%;
+    clear: right;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    line-height: 1000%;
+    background: url(http://gwlinux.com/Oliver.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
