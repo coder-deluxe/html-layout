@@ -1,0 +1,58 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
+
+.parent-top-bar {
+    height: 20%;
+    width: 100%;
+    background-color: grey;
+}
+
+.blue-square {
+    height: 43%;
+    width: 8%;
+    background-color: lightblue;
+    margin-left: 3%;
+    padding: 3%;
+    position: relative;
+    top: 11%;
+}
+
+.second-bar {
+    height: 38%;
+    width: 100%;
+    background-color: white;
+}
+
+p.second-bar-text {
+    color: red;
+    margin: 20px;
+    padding: 10%;
+}
+
+
+.third-bar {
+    height: 15%;
+    width: 100%;
+    background-color: blue;
+}
+
+.fourth-bar {
+    height: 15%;
+    width: 100%;
+    background-color: aqua;
+}
+
+.fifth-bar {
+    height: 15%;
+    width: 100%;
+    background-color: lightgreen;
+}
+
+.sixth-bar {
+    height: 15%;
+    width: 100%;
+    background-color: yellow;
+}
